@@ -89,7 +89,7 @@ SEI Mate is built with a revolutionary modular architecture featuring **reusable
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/sei-agent.git
+git clone https://github.com/davidpraise288-coder/sei-mate.git
 cd sei-agent
 
 # Install dependencies
@@ -464,7 +464,7 @@ We welcome contributions from the community! SEI Mate is designed to be extensib
 ### Development Setup
 ```bash
 # Fork the repository
-git clone https://github.com/yourusername/sei-agent.git
+git clone https://github.com/davidpraise288-coder/sei-mate.git
 cd sei-agent
 
 # Create a feature branch

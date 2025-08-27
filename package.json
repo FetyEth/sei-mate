@@ -56,6 +56,8 @@
     "pinata": "^2.4.9",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "socket.io": "4.8.1",
+    "socket.io-client": "4.8.1",
     "symphony-sdk": "^2.4.8",
     "tailwind-merge": "^2.6.0",
     "tailwindcss": "^4.1.10",
